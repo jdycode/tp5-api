@@ -12,8 +12,8 @@ return [
     ],
 //短信验证
     'sms' => [
-        'access_key' => 'LTAIZB5XDmEyaNfT',
-        'access_secret' => 'oCsoy06A0M9b8Mb52mUeOjTZ9AUE73',
-        'sign_name' => '蒋达勇'
+        'access_key' => '',
+        'access_secret' => '',
+        'sign_name' => ''
     ],
 ];
